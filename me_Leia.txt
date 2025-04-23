@@ -1,0 +1,13 @@
+PARA COMEÇAR UM NOVO PROJETO REACT NATIVE EM BRANCO
+    CMD -->  npx create-expo-app --template
+
+PARA RODAR O PROJETO EM MODO DE DESENVOLVIMENTO(DEPURAÇÃO)
+    CMD --> CD [PASTA ONDE ESTA O PROJETO]
+    CMD --> npm start
+
+=======EXEMPLO=======
+cd my_proj_game
+- npm start         # you can open iOS, Android, or web from here, or run them directly with the commands below.
+- npm run android
+- npm run ios       # requires an iOS device or macOS for access to an iOS simulator
+- npm run web
